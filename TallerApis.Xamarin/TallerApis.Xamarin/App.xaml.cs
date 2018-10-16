@@ -11,7 +11,7 @@ namespace TallerApis.Xamarin
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new PublicacionesPage();
         }
 
         protected override void OnStart()
